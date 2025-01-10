@@ -1,0 +1,16 @@
+normal:
+  name:
+    normal: "Mc's Website"
+    loading: "Loading ..."
+  color:
+    website: "#840000"
+  link:
+    website: "https://mc-vone-vn.github.io/"
+    loading: "https://mc-vone-vn.github.io/loading.html"
+    trang-chu: "https://mc-vone-vn.github.io/storage/trang-chu.html"
+
+title:
+  trang_chu: "Home | Mc's Website"
+
+description:
+  trang_chu: "Các nội dung cơ bản sẽ hiển thị tại đây"
