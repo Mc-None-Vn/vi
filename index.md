@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="refresh" content="0; url={{ site.normal.link.loading }}">
 	<!-- Hiển thị website -->
-	<title>Mc's Website</title>
 	<meta name="title" content="Trang chủ | Mc's Website">
 	<meta name="description" content="Đây là website của Team Mc và đang trong giai đoạn thử nghiệm!">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,9 +18,6 @@
 	<meta property="og:description" content="Đây là website của Team Mc và đang trong giai đoạn thử nghiệm!">
 	<!-- Css / Js -->
 	<link rel="stylesheet" href="storage/css/style.css">
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <script src="storage/js/script.js"></script>
 </head>
 <body>
 </body>
